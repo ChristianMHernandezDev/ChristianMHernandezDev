@@ -36,7 +36,9 @@
 - Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
 
 
-Contacto: **martinez.christian.isic@gmail.com**
+😻Contacto: **martinez.christian.isic@gmail.com**
+
+
 <!--Intro end-->
   </p>
 <br>
