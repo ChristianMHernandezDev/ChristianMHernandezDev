@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009895803782&mibextid=LQQJ4d" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "martinez.christian.isic@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.instagram.com/chris_mhz?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="chris_mhz"/></a>
-<a href="https://t.me/tu_nombre_de_usuario" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="tu_nombre_de_usuario"/></a>
+</a>
 
 
   </p>
@@ -23,9 +23,11 @@
 
 📊 Experto en Administracion de Bases de Datos
 
-🔌 Gurú de Redes
+🔌 Gurú de Redes.
 
-🙏 Soy un firme creyente en la colaboración y el aprendizaje continuo. Me encanta trabajar en equipo, compartir conocimientos y aprender de mis compañeros. Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
+🙏 Soy un firme creyente en la colaboración y el aprendizaje continuo. Me encanta trabajar en equipo, compartir conocimientos y aprender de mis compañeros. 
+
+✈️ Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
 
 📫 Contacto: **martinez.christian.isic@gmail.com**
 <!--Intro end-->
