@@ -15,26 +15,17 @@
 <!--Intro start-->
 
 <p align="left">
-- Soy estudiante de ingeniería, cursando la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec.
+- Soy estudiante de ingeniería, actualmente inmerso en la apasionante carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec. 
+
+  
+-Además, cuento con una sólida formación técnica como Técnico en Programación, obtenido en el Colegio de Estudios Científicos y Tecnológicos del Estado de México.
 
 
-- Técnico en Programación del plantel Colegio de Estudios Cientificos y Tecnologicos del Estado de México.
+- Mi verdadera pasión radica en el desarrollo Front-end, donde canalizo mi creatividad y habilidades técnicas para crear experiencias de usuario excepcionales. Poseo habilidades destacadas en la administración de bases de datos y me considero un auténtico Gurú de Redes, capaz de optimizar y asegurar una conectividad eficiente.
 
+- Como creyente ferviente en la colaboración y el aprendizaje continuo, encuentro en el trabajo en equipo una fuente constante de inspiración. Disfruto compartiendo mis conocimientos y absorbiendo la experiencia de mis compañeros, ya que creo firmemente que el intercambio de ideas es fundamental para el crecimiento profesional.
 
-- Apasionado por ser desarrollador el Front-end
-
-
-- Hábil en Administracion de Bases de Datos
-
-
-- Gurú de Redes.
-
-
-- Soy un firme creyente en la colaboración y el aprendizaje continuo. Me encanta trabajar en equipo, compartir conocimientos y aprender de mis compañeros. 
-
-
-- Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
-
+- Siempre estoy en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico. Considero que cada proyecto es una oportunidad para aprender y mejorar, y estoy listo para enfrentar cualquier reto que impulse mi desarrollo como profesional.
 
  Contacto: **martinez.christian.isic@gmail.com**
 
