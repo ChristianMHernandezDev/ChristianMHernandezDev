@@ -17,7 +17,7 @@
 <p align="left">
 - Soy estudiante de ingeniería, actualmente inmerso en la apasionante carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec. 
  
--Además, cuento con una sólida formación técnica como Técnico en Programación, obtenido en el Colegio de Estudios Científicos y Tecnológicos del Estado de México.
+- Además, cuento con una sólida formación técnica como Técnico en Programación, obtenido en el Colegio de Estudios Científicos y Tecnológicos del Estado de México.
 
 - Mi verdadera pasión radica en el desarrollo Front-end, donde canalizo mi creatividad y habilidades técnicas para crear experiencias de usuario excepcionales. Poseo habilidades destacadas en la administración de bases de datos y me considero un auténtico Gurú de Redes, capaz de optimizar y asegurar una conectividad eficiente.
 
