@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 
-  <br> Mi nombre es Christian Martínez Hernández 👨</h1> 
+  <br> Mi nombre es Christian Martínez Hernández</h1> 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/christian-martinez-72a4542a6" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -15,14 +15,21 @@
 <!--Intro start-->
 
 <p align="left">
-°Soy estudiante de ingeniería, cursando la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec.
-°Técnico en Programación del plantel Colegio de Estudios Cientificos y Tecnologicos del Estado de México.
-°Apasionado por ser desarrollador el Front-end
-°Hábil en Administracion de Bases de Datos
-°Gurú de Redes.
-°Soy un firme creyente en la colaboración y el aprendizaje continuo. Me encanta trabajar en equipo, compartir conocimientos y aprender de mis compañeros. 
-° Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
-°Contacto: **martinez.christian.isic@gmail.com**
+- Soy estudiante de ingeniería, cursando la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec.
+<br>
+- Técnico en Programación del plantel Colegio de Estudios Cientificos y Tecnologicos del Estado de México.
+<br>
+- Apasionado por ser desarrollador el Front-end
+<br>
+- Hábil en Administracion de Bases de Datos
+<br>
+- Gurú de Redes.
+<br>
+- Soy un firme creyente en la colaboración y el aprendizaje continuo. Me encanta trabajar en equipo, compartir conocimientos y aprender de mis compañeros. 
+<br>
+- Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
+<br>
+Contacto: **martinez.christian.isic@gmail.com**
 <!--Intro end-->
   </p>
 <br>
