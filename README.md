@@ -19,9 +19,9 @@
 
 💻 Técnico en Programación del plantel Colegio de Estudios Cientificos y Tecnologicos del Estado de México.
 
-🎥 Apasionado por ser desarrollador por el Front-end
+🎥 Apasionado por ser desarrollador el Front-end
 
-📊 Experto en Administracion de Bases de Datos
+📊 Hábil en Administracion de Bases de Datos
 
 🔌 Gurú de Redes.
 
@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
