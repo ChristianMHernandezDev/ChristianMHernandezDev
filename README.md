@@ -15,7 +15,7 @@
 <!--Intro start-->
 
 <p align="left">
-- Soy estudiante de ingeniería, actualmente inmerso en la apasionante carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec. 
+-  Soy estudiante de ingeniería, actualmente inmerso en la apasionante carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec. 
  
 - Además, cuento con una sólida formación técnica como Técnico en Programación, obtenido en el Colegio de Estudios Científicos y Tecnológicos del Estado de México.
 
