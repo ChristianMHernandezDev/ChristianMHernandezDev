@@ -6,22 +6,26 @@
 <a href="https://www.facebook.com/profile.php?id=100009895803782&mibextid=LQQJ4d" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "martinez.christian.isic@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.instagram.com/chris_mhz?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="chris_mhz"/></a>
+<a href="https://t.me/tu_nombre_de_usuario" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="tu_nombre_de_usuario"/></a>
+
 
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>👨 Informacion sobre mi: </h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN SISTEMAS COMPUTACIONALES
+🎓 Soy estudiante de ingeniería, cursando la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec.
 
-💻 Técnico en Programación
+💻 Técnico en Programación del plantel Colegio de Estudios Cientificos y Tecnologicos del Estado de México.
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 Apasionado por ser desarrollador por el Front-end
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📊 Experto en Administracion de Bases de Datos
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+🔌 Gurú de Redes
+
+🙏 Soy un firme creyente en la colaboración y el aprendizaje continuo. Me encanta trabajar en equipo, compartir conocimientos y aprender de mis compañeros. Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
 
 📫 Contacto: **martinez.christian.isic@gmail.com**
 <!--Intro end-->
