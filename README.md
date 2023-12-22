@@ -1,5 +1,6 @@
 <h1 align="center">¡Hola! </h1> 
-<h1 align="center">Mi nombre es Christian Martínez Hernández 👨</h1> 
+<br>
+<h1 "center">Mi nombre es Christian Martínez Hernández 👨</h1> 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
