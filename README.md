@@ -16,19 +16,26 @@
 
 <p align="left">
 - Soy estudiante de ingeniería, cursando la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec.
-<br>
+
+
 - Técnico en Programación del plantel Colegio de Estudios Cientificos y Tecnologicos del Estado de México.
-<br>
+
+
 - Apasionado por ser desarrollador el Front-end
-<br>
+
+
 - Hábil en Administracion de Bases de Datos
-<br>
+
+
 - Gurú de Redes.
-<br>
+
+
 - Soy un firme creyente en la colaboración y el aprendizaje continuo. Me encanta trabajar en equipo, compartir conocimientos y aprender de mis compañeros. 
-<br>
+
+
 - Estoy siempre en la búsqueda de desafíos emocionantes que me permitan expandir mis habilidades y contribuir al mundo tecnológico.
-<br>
+
+
 Contacto: **martinez.christian.isic@gmail.com**
 <!--Intro end-->
   </p>
