@@ -37,7 +37,7 @@ Soy estudiante de ingeniería, actualmente inmerso en la apasionante carrera de 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,c,cs,cpp,java,php,dart,flask,flutter,py,dotnet,css,html,mongodb,octave,react,js,nodejs,mysql,sqlite,firebase,git,github,postman,kotlin,eclipse,vscode,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,c,cs,cpp,java,php,dart,flask,flutter,py,dotnet,css,html,mongodb,octave,react,js,nodejs,mysql,sqlite,firebase,git,github,postman,kotlin,django,docker,vite,ubuntu,linux,npm,kali,visualstudioeclipse,vscode,linux,ps&perline=12" />
   </a>
 </p>
 <br>
