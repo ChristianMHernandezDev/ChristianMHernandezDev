@@ -16,7 +16,7 @@
 
 <p align="left">
 
-Soy estudiante de ingeniería, actualmente inmerso en la apasionante carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec. 
+Soy Desarrollador Jr, me concentro en el mantenimiento de los aplicativos existentes como la correccion de Stored Procedures, la realizacion de formularios y la extracción de datos por medio de consultas SQL. 
   
 - Además, cuento con una sólida formación técnica como Técnico en Programación, obtenido en el Colegio de Estudios Científicos y Tecnológicos del Estado de México.
 
