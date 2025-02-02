@@ -2,7 +2,7 @@
   <br> Mi nombre es Christian Martínez Hernández</h1> 
 <p align="left">
 
-<div class="text-center">
+<div class="d-flex justify-content-center gap-2">
 <a href="https://www.linkedin.com/in/christian-martínez-hernández-72a4542a6" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009895803782&mibextid=LQQJ4d" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "martinez.christian.isic@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
